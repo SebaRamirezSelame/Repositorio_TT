@@ -3,7 +3,7 @@
 Repositorio que contiene los proyectos de TripleTen
 
 
-La metodologia es por sprints, en donde cada uno abarzca un tema y un proyecto especifico.
+La metodologia es por sprints, en donde cada uno abarca un tema y un proyecto especifico.
 
 ## Sprint 1: Python Basico.
 Descripcion
