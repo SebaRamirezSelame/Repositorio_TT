@@ -1,2 +1,2 @@
 # Repositorio_TT
-Repositorio con Proyectos de TripleTen
+Repositorio que contiene los proyectos de TripleTen
